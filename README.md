@@ -36,7 +36,7 @@ INFO Checking SSH port availability
 Your system is correctly setup for using CRC. Use 'crc start' to start the instance
 ```
 
-- **STEO02**: execute start from crc CLI like this:
+- **STEO03**: execute start from crc CLI like this:
 
 ```
 $ crc start
@@ -104,7 +104,7 @@ Use the 'oc' command line interface:
 $ crc delete
 ```
 
-## *STEP04*: Open Web console in your default browser
+## **STEP04**: Open Web console in your default browser
 ```
 $ crc console
 ```
