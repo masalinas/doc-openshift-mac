@@ -1,7 +1,7 @@
-## Description
+## Description
 Documentation deploy OpenShift 14.x in Mac M1
 
-## Steps
+## Steps
 
 - **STEO01**: Go this link: https://console.redhat.com/openshift/create/local and download your CLI for your architecture in our case the OpenShift Local file for **MacOS aarch64**. Install the crc CLI from apk downloaded in your computer
 
