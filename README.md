@@ -104,7 +104,14 @@ Use the 'oc' command line interface:
 $ crc delete
 ```
 
-## **STEP04**: Open Web console in your default browser
+## **STEP04**: open Web console
+Open Web console in your default browser
 ```
 $ crc console
+```
+
+## **STEP04**: 
+Close Openshift Container Platform
+```
+$ crc stop
 ```
