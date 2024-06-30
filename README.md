@@ -103,3 +103,8 @@ Use the 'oc' command line interface:
 ```
 $ crc delete
 ```
+
+## *STEP04*: Open Web console in your default browser
+```
+$ crc console
+```
