@@ -3,9 +3,9 @@ Documentation deploy OpenShift 14.x in Mac M1
 
 ## Steps
 
-- **STEO01**: Go this link: https://console.redhat.com/openshift/create/local and download your CLI for your architecture in our case the OpenShift Local file for **MacOS aarch64**. Install the crc CLI from apk downloaded in your computer
+- **STEP01**: Go this link: https://console.redhat.com/openshift/create/local and download your CLI for your architecture in our case the OpenShift Local file for **MacOS aarch64**. Install the crc CLI from apk downloaded in your computer
 
-- **STEO02**: execute setup from crc CLI like this
+- **STEP02**: execute setup from crc CLI like this
 
 ```
 $ crc setup
@@ -36,7 +36,7 @@ INFO Checking SSH port availability
 Your system is correctly setup for using CRC. Use 'crc start' to start the instance
 ```
 
-- **STEO03**: execute start from crc CLI like this:
+- **STEP03**: execute start from crc CLI like this:
 
 ```
 $ crc start
